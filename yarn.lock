@@ -7131,10 +7131,10 @@ gatsby-telemetry@^1.3.12:
     stack-utils "1.0.2"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-core@^1.2.10:
-  version "1.2.10"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.2.10.tgz#db5358432ac51228f3a5a05d26c2e91d30ae2932"
-  integrity sha512-UvjkbQxiEk4U2PnUf+18H3DkrwiqFM5VeB6+0DXI7azEjWNSKK4pVm0Nw6ET+GNtCc4FQZINAvrcCSYVDLswFA==
+gatsby-theme-catalyst-core@^1.2.11:
+  version "1.2.11"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-1.2.11.tgz#ab42790fbd72678161aedfb5da7c341961ca497d"
+  integrity sha512-5vai7xrb4mBZzMhXnwT9cAkY1jyuVDM7psDakcWMZk8CnvT/oo6oNRvlxsfVWau2dqet0zc27qHk3VqpyWN9gA==
   dependencies:
     "@mdx-js/mdx" "^1.6.6"
     "@mdx-js/react" "^1.6.6"
