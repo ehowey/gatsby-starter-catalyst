@@ -6779,7 +6779,7 @@ gatsby-telemetry@^2.3.0:
     node-fetch "^2.6.1"
     uuid "3.4.0"
 
-gatsby-theme-catalyst-core@^6.0.0-beta.5:
+gatsby-theme-catalyst-core@^6.0.0-beta.6:
   version "6.0.0-beta.6"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-6.0.0-beta.6.tgz#316e2d41d96cdd9f8e3de0270a6025daecc21eac"
   integrity sha512-WOTt3yItdz2fMrdxU1yhOEA4anzW3qk/XHKnsa8IHZkUaMNkbjaODpEDgEqFdPUuP2zOTjgJoheL7KvOnHHVHA==
@@ -6823,12 +6823,12 @@ gatsby-theme-catalyst-core@^6.0.0-beta.5:
     remark-slug "^6.0.0"
     theme-ui "^0.6.2"
 
-gatsby-theme-catalyst-footer@^6.0.0-beta.5:
+gatsby-theme-catalyst-footer@^6.0.0-beta.6:
   version "6.0.0-beta.6"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer/-/gatsby-theme-catalyst-footer-6.0.0-beta.6.tgz#0ec8d49e4350003b4c9fef09d262f3cde7989726"
   integrity sha512-lXh0eC/Npu3nILwZuRPgpCsEwKwtSKmdCrQxon9uk3gJ9oHbcdIIzgZvH9d7diZLcJImDdwBsBsbgkSrlo1+eg==
 
-gatsby-theme-catalyst-header-top@^6.0.0-beta.5:
+gatsby-theme-catalyst-header-top@^6.0.0-beta.6:
   version "6.0.0-beta.6"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-top/-/gatsby-theme-catalyst-header-top-6.0.0-beta.6.tgz#5902d7395dde411157320f46728916947f8c3e5e"
   integrity sha512-AREXEj1mi/FcVIzZAq6LuU7xrsFzGsciA3vUfHG4MaP4sKtSnH7e8UNBoquJuZq6sVIpCz74qDbPy8yHY2QxZg==
